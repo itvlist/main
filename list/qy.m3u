@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-name="晴园" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/logo.png" group-title="【关于直播】",晴园IPTV
 https://cdn.jsdelivr.net/gh/sun520999/m3u/Video/遇见你是最幸运的事.mp4
 #EXTINF:-1 tvg-name="晴园" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/logo.png" group-title="【关于直播】",反馈交流
-https://cdn.jsdelivr.net/gh/sun520999/m3u/Video/%E6%99%B4%E5%9B%AD%E7%9B%B4%E6%92%AD.mp4
+https://cdn.jsdelivr.net/gh/sun520999/m3u/Video/qyzb.mp4
 #EXTINF:-1 tvg-name="晴园" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/kexue.png" group-title="【关于直播】",墙外花香
 https://cdn.jsdelivr.net/gh/sun520999/m3u/Video/qyzbdy.mp4
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/shengming.png" group-title="【关于直播】",免责声明
@@ -646,257 +646,257 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mn
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",DD-大家的号
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",DD-大家的号
 http://121.51.249.99/txdirect.hls.huya.com/src/1199573518691-1199573518691-5487435360524828672-2399147160838-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",L丶小小
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",L丶小小
 http://121.51.249.99/txdirect.hls.huya.com/src/1199578905622-1199578905622-5510572052995637248-2399157934700-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",Mz咩咩
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",Mz咩咩
 http://121.51.249.99/txdirect.hls.huya.com/src/1199530067986-1199530067986-5300816003561684992-2399060259428-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",SMG吐槽担当
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",SMG吐槽担当
 http://121.51.249.99/txdirect.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",S哥影视
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",S哥影视
 http://121.51.249.99/txdirect.hls.huya.com/src/1199577085634-1199577085634-5502755264056524800-2399154294724-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",tu槽
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",tu槽
 http://121.51.249.99/txdirect.hls.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",yang光的快乐生活
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",yang光的快乐生活
 http://121.51.249.99/txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",yao不能停
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",yao不能停
 http://121.51.249.99/txdirect.hls.huya.com/src/1524418106-1524418106-6547325910700261376-3048959668-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",YeShi小哥
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",YeShi小哥
 http://121.51.249.99/txdirect.hls.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",一代宗师张三丰
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",一代宗师张三丰
 http://121.51.249.99/txdirect.hls.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",一起来看花姑娘
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",一起来看花姑娘
 http://121.51.249.99/txdirect.hls.huya.com/src/1199517792682-1199517792682-5248093974333227008-2399035708820-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",三国演义
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",三国演义
 http://121.12.115.162/txdirect.hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",了不起的小萌虎
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",了不起的小萌虎
 http://121.51.249.99/txdirect.hls.huya.com/src/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",亮哥讲电影
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",亮哥讲电影
 http://121.51.249.99/txdirect.hls.huya.com/src/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",亿凡-辰熙
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",亿凡-辰熙
 http://121.51.249.99/txdirect.hls.huya.com/src/14760530-14760530-63395993621626880-29644516-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",兜兜з
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",兜兜з
 http://121.51.249.99/txdirect.hls.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",六公主放映室
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",六公主放映室
 http://121.51.249.99/txdirect.hls.huya.com/src/1199572377389-1199572377389-5482533505759969280-2399144878234-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",六大门派围攻光明顶
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",六大门派围攻光明顶
 http://121.51.249.99/txdirect.hls.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",凤武
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",凤武
 http://121.51.249.99/txdirect.hls.huya.com/src/1223707370-1223707370-5255783134024171520-2447538196-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",初心
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",初心
 http://121.51.249.99/txdirect.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",力哥影視
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",力哥影視
 http://121.51.249.99/txdirect.hls.huya.com/src/1199557791348-1199557791348-5419886936686854144-2399115706152-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",十八里铺大当家
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",十八里铺大当家
 http://121.51.249.99/txdirect.hls.huya.com/src/1099531752756-1099531752756-86436130932654080-2199063628968-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",古墓系列
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",古墓系列
 http://121.51.249.99/txdirect.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",古装轮播
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",古装轮播
 http://121.51.249.99/txdirect.hls.huya.com/src/1524434091-1524434091-6547394565752487936-3048991638-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",史上最骚解说
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",史上最骚解说
 http://121.51.249.99/txdirect.hls.huya.com/src/94525224-2706361404-11623733721336643584-2671908056-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",君临剧开心
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",君临剧开心
 http://121.51.249.99/txdirect.hls.huya.com/src/1199578395474-1199578395474-5508380984019517440-2399156914404-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",吴京
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",吴京
 http://121.51.249.99/txdirect.hls.huya.com/src/1099531752759-1099531752759-86436143817555968-2199063628974-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",吴京
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",吴京
 http://121.51.249.99/txdirect.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",吾聊电影
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",吾聊电影
 http://121.51.249.99/txdirect.hls.huya.com/src/94525224-2711961022-11647783897516736512-3195245956-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",周星星
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",周星星
 http://121.51.249.99/txdirect.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",喜剧合家欢
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",喜剧合家欢
 http://121.51.249.99/txdirect.hls.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",国产动作大片
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",国产动作大片
 http://121.51.249.99/txdirect.hls.huya.com/src/1423782021-1423782021-6115097216827785216-2847687498-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",国产悬疑
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",国产悬疑
 http://121.51.249.99/txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",夏雪夏雨夏冰雹
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",夏雪夏雨夏冰雹
 http://121.51.249.99/txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",大片连连看
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",大片连连看
 http://121.51.249.99/txdirect.hls.huya.com/src/1099531752757-1099531752757-86436135227621376-2199063628970-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",婧婧丶
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",婧婧丶
 http://121.51.249.99/txdirect.hls.huya.com/src/437362244-437362244-1878456534485172224-874847944-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",孙大圣的传奇一生
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",孙大圣的传奇一生
 http://121.51.249.99/txdirect.hls.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",学妹爱学长
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",学妹爱学长
 http://121.51.249.99/txdirect.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",实力拔萝卜
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",实力拔萝卜
 http://121.51.249.99/txdirect.hls.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",封神榜-陈浩民版哪吒
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",封神榜-陈浩民版哪吒
 http://121.51.249.99/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",小怪兽
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",小怪兽
 http://121.51.249.99/txdirect.hls.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",少年包青天
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",少年包青天
 http://121.51.249.99/txdirect.hls.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",山药视频
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",山药视频
 http://121.51.249.99/txdirect.hls.huya.com/src/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",庄菜菜
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",庄菜菜
 http://121.51.249.99/txdirect.hls.huya.com/src/1199513200411-1199513200411-5228370320573857792-2399026524278-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",康熙·民间私访
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",康熙·民间私访
 http://121.51.249.99/txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",徐峥
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",徐峥
 http://121.51.249.99/txdirect.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",徐峥黄渤
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",徐峥黄渤
 http://121.51.249.99/txdirect.hls.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",怪兽大片
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",怪兽大片
 http://121.12.115.162/txdirect.hls.huya.com/src/1099531752749-1099531752749-86436100867883008-2199063628954-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",惊魂恐怖片来一发
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",惊魂恐怖片来一发
 http://121.51.249.99/txdirect.hls.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",愚人节
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",愚人节
 http://121.51.249.99/txdirect.hls.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",成龙
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",成龙
 http://121.51.249.99/txdirect.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",我de团长我的团
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",我de团长我的团
 http://121.51.249.99/txdirect.hls.huya.com/src/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",扁豆看电影
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",扁豆看电影
 http://121.51.249.99/txdirect.hls.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",抓坏蛋的小流氓
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",抓坏蛋的小流氓
 http://121.51.249.99/txdirect.hls.huya.com/src/1423782093-1423782093-6115097526065430528-2847687642-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",斌哥漫说
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",斌哥漫说
 http://121.51.249.99/txdirect.hls.huya.com/src/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",新萧十一郎
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",新萧十一郎
 http://121.12.115.157/tx.hls.huya.com/huyalive/1524439823-1524439823-6547419184505028608-3049003102-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",曾小咸
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",曾小咸
 http://121.51.249.99/txdirect.hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",會唱歌的小野貓
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",會唱歌的小野貓
 http://121.51.249.99/txdirect.hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",李小哇絮叨叨
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",李小哇絮叨叨
 http://121.51.249.99/txdirect.hls.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",李连杰
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",李连杰
 http://121.51.249.99/txdirect.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",极限挑战
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",极限挑战
 http://121.51.249.99/txdirect.hls.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",林正英
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",林正英
 http://121.51.249.99/txdirect.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",枫哥影视
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",枫哥影视
 http://121.51.249.99/txdirect.hls.huya.com/src/1199579767212-1199579767212-5514272553868197888-2399159657880-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",桃园结义三兄弟
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",桃园结义三兄弟
 http://121.51.249.99/txdirect.hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",欧巴
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",欧巴
 http://121.51.249.99/txdirect.hls.huya.com/src/1199561240111-1199561240111-5434699260983508992-2399122603678-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",武侠电影
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",武侠电影
 http://121.51.249.99/txdirect.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",死神來了
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",死神來了
 http://121.51.249.99/txdirect.hls.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",母胎solo二百年
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",母胎solo二百年
 http://121.51.249.99/txdirect.hls.huya.com/src/1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",沈腾
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",沈腾
 http://121.51.249.99/txdirect.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",洪金宝
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",洪金宝
 http://121.51.249.99/txdirect.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",流氓上了鸭
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",流氓上了鸭
 http://121.51.249.99/txdirect.hls.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",港剧
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",港剧
 http://121.51.249.99/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",滚滚长江东逝水
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",滚滚长江东逝水
 http://121.51.249.99/txdirect.hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",漫威宇宙
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",漫威宇宙
 http://121.51.249.99/txdirect.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",灾难大片
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",灾难大片
 http://121.12.115.162/txdirect.hls.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",熊妹撩电影
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",熊妹撩电影
 http://121.51.249.99/txdirect.hls.huya.com/src/94525224-2703053314-11609525582974418944-239402834-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",父母爱情
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",父母爱情
 http://121.51.249.99/txdirect.hls.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",特工行动
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",特工行动
 http://121.51.249.99/txdirect.hls.huya.com/src/1199578401205-1199578401205-5508405598477090816-2399156925866-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",状王宋世杰
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",状王宋世杰
 http://121.51.249.99/txdirect.hls.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",狄仁杰
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",狄仁杰
 http://121.51.249.99/txdirect.hls.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",狗哥吃火锅
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",狗哥吃火锅
 http://121.51.249.99/txdirect.hls.huya.com/src/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",玄幻专场
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",玄幻专场
 http://121.51.249.99/txdirect.hls.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",生化危机
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",生化危机
 http://121.12.115.162/txdirect.hls.huya.com/src/1099531752748-1099531752748-86436096572915712-2199063628952-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",电影最TOP
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",电影最TOP
 http://121.51.249.99/txdirect.hls.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",瞬间爆炸
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",瞬间爆炸
 http://121.51.249.99/txdirect.hls.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",神貂侠侣
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",神貂侠侣
 http://121.51.249.99/txdirect.hls.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",科幻梦工场
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",科幻梦工场
 http://121.51.249.99/txdirect.hls.huya.com/src/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",科幻电影
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",科幻电影
 http://121.51.249.99/txdirect.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",笑傲帮顶尖笑匠
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",笑傲帮顶尖笑匠
 http://121.51.249.99/txdirect.hls.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",笑傲江湖喜剧脱口秀
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",笑傲江湖喜剧脱口秀
 http://121.51.249.99/txdirect.hls.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",第一放映室
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",第一放映室
 http://121.51.249.99/txdirect.hls.huya.com/src/1445653465-1445653465-6209034353524080640-2847699238-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",经典影艺
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",经典影艺
 http://121.51.249.99/txdirect.hls.huya.com/src/1699743022-1699743022-7300340691094208512-3399609500-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",经典影评厅
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",经典影评厅
 http://121.51.249.99/txdirect.hls.huya.com/src/1199539109542-1199539109542-5339649190886637568-2399078342540-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",老白涮肉坊·葵花点穴手
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",老白涮肉坊·葵花点穴手
 http://121.51.249.99/txdirect.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",背井离乡闯关东
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",背井离乡闯关东
 http://121.51.249.99/txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",舌尖上的中國
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",舌尖上的中國
 http://121.51.249.99/txdirect.hls.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",茶啊二中
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",茶啊二中
 http://121.51.249.99/txdirect.hls.huya.com/src/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",荒野求生影视
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",荒野求生影视
 http://121.51.249.99/txdirect.hls.huya.com/src/1199528334171-1199528334171-5293369324839370752-2399056791798-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",荒野达人
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",荒野达人
 http://121.51.249.99/txdirect.hls.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",虎牙八点档
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",虎牙八点档
 http://121.51.249.99/txdirect.hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",许三多
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",许三多
 http://121.51.249.99/txdirect.hls.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",许冠英
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",许冠英
 http://121.51.249.99/txdirect.hls.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",许氏三杰
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",许氏三杰
 http://121.51.249.99/txdirect.hls.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",谢飞机
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",谢飞机
 http://121.51.249.99/txdirect.hls.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",贺岁档
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",贺岁档
 http://121.51.249.99/txdirect.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",超级交通站
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",超级交通站
 http://121.51.249.99/txdirect.hls.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",越哥说电影
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",越哥说电影
 http://121.51.249.99/txdirect.hls.huya.com/src/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",逗乐小品
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",逗乐小品
 http://121.51.249.99/txdirect.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",邻li一家亲
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",邻li一家亲
 http://121.51.249.99/txdirect.hls.huya.com/src/1394575549-1394575549-5989656374756245504-2789274554-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",金庸作品
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",金庸作品
 http://121.51.249.99/txdirect.hls.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",金庸的武侠世界
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",金庸的武侠世界
 http://121.51.249.99/txdirect.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",铁嘴银牙
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",铁嘴银牙
 http://121.51.249.99/txdirect.hls.huya.com/src/1199561277694-1199561277694-5434860678739394560-2399122678844-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",铁齿铜ya纪晓岚
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",铁齿铜ya纪晓岚
 http://121.51.249.99/txdirect.hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",阿斗归来了
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",阿斗归来了
 http://121.51.249.99/txdirect.hls.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",陈翔六点半
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",陈翔六点半
 http://121.51.249.99/txdirect.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",雍正皇帝
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",雍正皇帝
 http://121.51.249.99/txdirect.hls.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",非凡武林
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",非凡武林
 http://121.51.249.99/txdirect.hls.huya.com/src/1279520922847-1279520922847-16817528283867381760-2559041969150-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",飙车的老司机
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",飙车的老司机
 http://121.51.249.99/txdirect.hls.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",饭星星
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",饭星星
 http://121.51.249.99/txdirect.hls.huya.com/src/2370219767-2370219767-10180016383597740032-4740562990-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",高智商的罪犯
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",高智商的罪犯
 http://121.51.249.99/txdirect.hls.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",鱼塘塘主张年年
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",鱼塘塘主张年年
 http://121.51.249.99/txdirect.hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",黄金配角 | 达叔
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",黄金配角 | 达叔
 http://121.51.249.99/txdirect.hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",黑帮大片
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",黑帮大片
 http://121.12.115.162/txdirect.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",黑帮斗争
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",黑帮斗争
 http://121.12.115.162/txdirect.hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",龙men镖局
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",龙men镖局
 http://121.51.249.99/txdirect.hls.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/虎牙.png"  group-title="虎牙",龙珠英雄
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/huya.png"  group-title="虎牙",龙珠英雄
 http://121.51.249.99/txdirect.hls.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.m3u8
 
 
