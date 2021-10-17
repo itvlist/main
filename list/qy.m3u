@@ -1,11 +1,4 @@
-#EXTM3U tvg-url="https://epg.112114.xyz/pp.xml"
-tvg-url="http://epg.51zmt.top:8000/e.xml"
-tvg-url="http://epg.it999.ru/epg.xml.gz"
-tvg-url="http://epg.cdntv.online/full.xml.gz"
-url-tvg="https://iptvx.one/epg/epg.xml.gz"
-url-tvg="http://epg.cdntv.online/full.xml.gz"
-url-tvg="https://zigfreed.ru/epg/Z!/epg.xml,https://zigfreed.ru/epg/comedy/epg.xml,https://zigfreed.ru/epg/crime/epg.xml,https://zigfreed.ru/epg/horror/epg.xml"
-url-tvg="http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38850,37925,37353,38821,38896,37388,39484,38801,39161,39696,39005,391,38792,37311,38793,39759,39696,38144,37739,38794,38617,37742,38720,37925"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 
 
 
