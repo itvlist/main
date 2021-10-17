@@ -1396,9 +1396,9 @@ https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 
 
 
-#EXTINF:-1  tvg-name="节点直播" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/bll.png" group-title="youtube频道",节点直播·不良林
+#EXTINF:-1  tvg-name="节点直播" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/bll.png" group-title="youtube频道",科学上网·不良林
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/bll.m3u8
-#EXTINF:-1  tvg-name="节点直播" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/cf.png" group-title="youtube频道",节点直播·长风
+#EXTINF:-1  tvg-name="节点直播" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/cf.png" group-title="youtube频道",科学上网·长风
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/cfjd.m3u8
 #EXTINF:-1  tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube频道",寰宇新闻
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/hyxw.m3u8
