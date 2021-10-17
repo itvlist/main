@@ -10,7 +10,7 @@ https://cdn.jsdelivr.net/gh/sun520999/m3u/Video/关注公众号晴园.mp4
 https://cdn.jsdelivr.net/gh/sun520999/m3u/Video/qyzbdy.mp4
 #EXTINF:-1 tvg-name="【晴园】免责声明" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/shengming.png" group-title="【关于直播】",免责声明
 https://gitee.com/ygyzy/m3u/raw/master/Video/sm0913.mp4
-#EXTINF:-1 tvg-name="【晴园】版本" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/version.png" group-title="【关于直播】",版本更新 2021.10.17Beta
+#EXTINF:-1 tvg-name="【晴园】版本更新" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/version.png" group-title="【关于直播】",版本更新 2021.10.17Beta
 https://cdn.jsdelivr.net/gh/sun520999/m3u/Video/version.mkv
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
