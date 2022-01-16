@@ -7,7 +7,7 @@ https://sub.giteecn.workers.dev/itvlist/channel/main/sharerw/DIYP%E9%AD%94%E6%94
 # 港台（HK&TW）:https://nbyy.vipshipin.workers.dev/itvlist/channel/main/sharerw/gwnz.txt
 # 歌舞（MV）:https://sharerw.vipshipin.workers.dev/itvlist/channel/main/sharerw/nzy.txt
 
-# 软件在分享者DIYP魔改版基础上修改，原软件内置源为下载源，部分盒子可能无法正常载入。
+# 软件在分享者DIYP魔改版（支持三线订阅源，mitv源）基础上修改，原软件内置源为下载源，部分盒子可能无法正常载入。
 # 软件已经修改为本GITHUB项目免翻网页直接显示源，可正常在盒子上载入、
 # 软件使用方法：
 # 软件内置三条播放源：打开软件无任何源。
