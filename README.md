@@ -1,4 +1,4 @@
-# channel
+# main
 # My list
 # m3u直播源订阅（****部分随时变更）：
 #（https://raw.githubusercontent.com/itvlist/channel/main/list/qyzb[****].m3u）
