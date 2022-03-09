@@ -1,0 +1,40 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png" group-title="俄乌新闻#NOWAR",Prmua
+http://iptv.tvfix.org/hls/prmua.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png" group-title="俄乌新闻#NOWAR",Russian24
+http://iptv.tvfix.org/hls/russia24.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png" group-title="俄乌新闻#NOWAR",CNN
+http://iptv.tvfix.org/hls/cnn.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",CNN高清
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",CNN高清
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",BBC世界新闻高清
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",ABC Australia HD
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",ABC News US HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",ChannelNewsAsia FHD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",DW FHD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",Euronews HD
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",France24 FHD
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",France24 FHD
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",France24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",FOX NewsNOW
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",NBC NEWS FHD
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF1 group-title="俄乌前沿新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",NBC News Now FHD
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",TRT World HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
