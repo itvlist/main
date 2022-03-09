@@ -1,40 +1,129 @@
 #EXTM3U
-
-
-
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png" group-title="俄乌新闻#NOWAR",Prmua
-http://iptv.tvfix.org/hls/prmua.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png" group-title="俄乌新闻#NOWAR",Russian24
-http://iptv.tvfix.org/hls/russia24.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png" group-title="俄乌新闻#NOWAR",CNN
-http://iptv.tvfix.org/hls/cnn.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",CNN高清
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",CNN高清
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",BBC世界新闻高清
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",ABC Australia HD
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",ABC News US HD
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",ChannelNewsAsia FHD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",DW FHD
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",Euronews HD
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",France24 FHD
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",France24 FHD
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",France24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",FOX NewsNOW
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",NBC NEWS FHD
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF1 group-title="俄乌前沿新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",NBC News Now FHD
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF1 group-title="俄乌申报-新闻#NOWAR" tvg-logo="https://4.ax1x.com/2022/02/25/bETtJI.png",TRT World HD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-title="陕西",CCTV1
+http://112.25.47.58/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV1
+http://112.25.47.58/gitv_live/G_CCTV-1/G_CCTV-1.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV2
+http://112.25.47.58/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV5+
+http://112.25.47.58/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV11
+http://112.25.47.58/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV11
+http://112.25.47.58/gitv_live/CCTV-11/CCTV-11.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV13
+http://112.25.47.58/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV13
+http://112.25.47.58/gitv_live/CCTV-13/CCTV-13.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV15
+http://112.25.47.58/gitv_live/G_CCTV-15/G_CCTV-15.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV17
+http://112.25.47.58/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV17
+http://112.25.47.58/gitv_live/G_CCTV-17/G_CCTV-17.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CGTN
+http://112.25.47.58/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",浙江卫视
+http://112.25.47.58/gitv_live/ZJWS-HD/ZJWS-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",浙江卫视
+http://112.25.47.58/gitv_live/G_ZHEJIANG/G_ZHEJIANG.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",湖南卫视
+http://112.25.47.58/gitv_live/HNWS-HD/HNWS-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",湖南卫视
+http://112.25.47.58/gitv_live/G_HUNAN/G_HUNAN.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",江苏卫视
+http://112.25.47.58/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",江苏卫视
+http://112.25.47.58/gitv_live/JSWS-HD/JSWS-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",东方卫视
+http://112.25.47.58/gitv_live/DFWS-HD/DFWS-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",东方卫视
+http://112.25.47.58/gitv_live/G_DONGFANG/G_DONGFANG.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",北京卫视
+http://112.25.47.58/gitv_live/BTV-1/BTV-1.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",北京卫视
+http://112.25.47.58/gitv_live/G_BEIJING/G_BEIJING.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",广东卫视
+http://112.25.47.58/gitv_live/GDWS-HD/GDWS-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",广东卫视
+http://112.25.47.58/gitv_live/G_GUANGDONG/G_GUANGDONG.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",黑龙江卫视
+http://112.25.47.58/gitv_live/HLJWS-HD/HLJWS-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",深圳卫视
+http://112.25.47.58/gitv_live/SZWS-HD/SZWS-HD.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",深圳卫视
+http://112.25.47.58/gitv_live/G_SHENZHEN/G_SHENZHEN.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",安徽卫视
+http://112.25.47.58/gitv_live/AHWS/AHWS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",辽宁卫视
+http://112.25.47.58/gitv_live/LNWS/LNWS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",山东卫视
+http://112.25.47.58/gitv_live/SDWS/SDWS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",广西卫视
+http://112.25.47.58/gitv_live/GXWS/GXWS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",海南卫视
+http://112.25.47.58/gitv_live/LYWS/LYWS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",重庆卫视
+http://112.25.47.58/gitv_live/G_CHONGQING/G_CHONGQING.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",四川卫视
+http://112.25.47.58/gitv_live/SCWS/SCWS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",河南卫视
+http://112.25.47.58/gitv_live/HENAN/HENAN.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",东南卫视
+http://112.25.47.58/gitv_live/DNWS/DNWS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",天津卫视
+http://112.25.47.58/gitv_live/TJWS/TJWS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",江西卫视
+http://112.25.47.58/gitv_live/JXWS/JXWS.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",湖北卫视
+http://112.25.47.58/gitv_live/G_HUBEI/G_HUBEI.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",吉林卫视
+http://112.25.47.58/gitv_live/G_JILIN/G_JILIN.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",贵州卫视
+http://112.25.47.58/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",青海卫视
+http://112.25.47.58/gitv_live/G_QINGHAI/G_QINGHAI.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",内蒙古卫视
+http://112.25.47.58/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",云南卫视
+http://112.25.47.58/gitv_live/G_YUNNAN/G_YUNNAN.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",河北卫视
+http://112.25.47.58/gitv_live/G_HEBEI/G_HEBEI.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",宁夏卫视
+http://112.25.47.58/gitv_live/G_NINGXIA/G_NINGXIA.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",新疆卫视
+http://112.25.47.58/gitv_live/G_XINJIANG/G_XINJIANG.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",甘肃卫视
+http://112.25.47.58/gitv_live/G_GANSU/G_GANSU.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",中国教育1台
+http://112.25.47.58/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",中国教育2台
+http://112.25.47.58/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",中国教育4台
+http://112.25.47.58/gitv_live/G_CETV-4/G_CETV-4.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",好享购物
+http://112.25.47.58/gitv_live/G_HAOXIANG/G_HAOXIANG.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",央广购物
+http://112.25.47.58/gitv_live/G_YANGGUANGGOU/G_YANGGUANGGOU.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV4
+http://112.25.47.58/gitv_live/CCTV-4/CCTV-4.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV7
+http://112.25.47.58/gitv_live/CCTV-7/CCTV-7.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV9
+http://112.25.47.58/gitv_live/G_CCTV-9/G_CCTV-9.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV10
+http://112.25.47.58/gitv_live/CCTV-10/CCTV-10.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV12
+http://112.25.47.58/gitv_live/CCTV-12/CCTV-12.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",CCTV14
+http://112.25.47.58/gitv_live/G_CCTV-14/G_CCTV-14.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",优漫卡通
+http://112.25.47.58/gitv_live/G_YOUMAN/G_YOUMAN.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",卡酷动画
+http://112.25.47.58/gitv_live/G_KAKU/G_KAKU.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",金鹰卡通
+http://112.25.47.58/gitv_live/G_JINYING/G_JINYING.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",发现之旅
+http://112.25.47.58/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8?p=GITV&area=SAXYD
+#EXTINF:-1 tvg-title="陕西",女性时尚
+http://112.25.47.58/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8?p=GITV&area=SAXYD
